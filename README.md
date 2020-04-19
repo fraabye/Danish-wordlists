@@ -16,8 +16,9 @@ The wordlist 20200419-Danish-words.txt contains 1,807,805 Danish words based on 
 Learn more about these works at https://korpus.dsl.dk/.
 
 I have written a few blog posts on creating this list here:
-https://frederik.raabye.dk/blog/creating-a-better-wordlist-for-cracking-danish-passwords/
-https://frederik.raabye.dk/blog/a-better-danish-wordlist-take-one-word-extraction/
+
+- https://frederik.raabye.dk/blog/creating-a-better-wordlist-for-cracking-danish-passwords/
+- https://frederik.raabye.dk/blog/a-better-danish-wordlist-take-one-word-extraction/
 
 # Lists of government-approved first-names in Denmark
 
