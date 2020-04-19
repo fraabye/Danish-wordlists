@@ -20,6 +20,8 @@ I have written a few blog posts on creating this list here:
 - https://frederik.raabye.dk/blog/creating-a-better-wordlist-for-cracking-danish-passwords/
 - https://frederik.raabye.dk/blog/a-better-danish-wordlist-take-one-word-extraction/
 
+Please note that the current version still contains some English markup keywords and surplus spaces. A number of people requested the data and I wanted a rough version available sooner than later.
+
 # Lists of government-approved first-names in Denmark
 
 Based on data from https://ast.dk/born-familie/hvad-handler-din-klage-om/navne/navnelister/godkendte-fornavne.
